@@ -1,0 +1,10 @@
+E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\Js.Business.dll
+E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\Js.Business.pdb
+E:\pruebas\Js.webCrawler\Js.Business\obj\Debug\Js.Business.dll
+E:\pruebas\Js.webCrawler\Js.Business\obj\Debug\Js.Business.pdb
+E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\Js.Business.dll.config
+E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\EntityFramework.dll
+E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\EntityFramework.SqlServer.dll
+E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\EntityFramework.xml
+E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\EntityFramework.SqlServer.xml
+E:\pruebas\Js.webCrawler\Js.Business\obj\Debug\Js.Business.csprojResolveAssemblyReference.cache
