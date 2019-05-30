@@ -1,0 +1,15 @@
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\Js.webCrawler.exe.config
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\Js.webCrawler.exe
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\Js.webCrawler.pdb
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\HtmlAgilityPack.dll
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\HtmlAgilityPack.pdb
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\HtmlAgilityPack.xml
+E:\pruebas\Js.webCrawler\Js.webCrawler\obj\Debug\Js.webCrawler.csprojResolveAssemblyReference.cache
+E:\pruebas\Js.webCrawler\Js.webCrawler\obj\Debug\Js.webCrawler.exe
+E:\pruebas\Js.webCrawler\Js.webCrawler\obj\Debug\Js.webCrawler.pdb
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\Js.Business.dll
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\EntityFramework.dll
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\Js.Business.pdb
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\EntityFramework.xml
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\EntityFramework.SqlServer.dll
+E:\pruebas\Js.webCrawler\Js.webCrawler\bin\Debug\EntityFramework.SqlServer.xml
