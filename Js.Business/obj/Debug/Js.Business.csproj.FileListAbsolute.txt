@@ -8,3 +8,15 @@ E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\EntityFramework.SqlServer.dll
 E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\EntityFramework.xml
 E:\pruebas\Js.webCrawler\Js.Business\bin\Debug\EntityFramework.SqlServer.xml
 E:\pruebas\Js.webCrawler\Js.Business\obj\Debug\Js.Business.csprojResolveAssemblyReference.cache
+D:\git\webcrawler\Js.Business\bin\Debug\Js.Business.dll.config
+D:\git\webcrawler\Js.Business\bin\Debug\Js.Business.dll
+D:\git\webcrawler\Js.Business\bin\Debug\Js.Business.pdb
+D:\git\webcrawler\Js.Business\bin\Debug\EntityFramework.dll
+D:\git\webcrawler\Js.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\git\webcrawler\Js.Business\bin\Debug\EntityFramework.xml
+D:\git\webcrawler\Js.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\git\webcrawler\Js.Business\obj\Debug\Js.Business.csprojAssemblyReference.cache
+D:\git\webcrawler\Js.Business\obj\Debug\Js.Business.csproj.CoreCompileInputs.cache
+D:\git\webcrawler\Js.Business\obj\Debug\Js.Business.csproj.CopyComplete
+D:\git\webcrawler\Js.Business\obj\Debug\Js.Business.dll
+D:\git\webcrawler\Js.Business\obj\Debug\Js.Business.pdb
