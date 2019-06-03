@@ -21,13 +21,12 @@ D:\git\webcrawler\Js.webCrawler\bin\Debug\EntityFramework.SqlServer.dll
 D:\git\webcrawler\Js.webCrawler\bin\Debug\HtmlAgilityPack.dll
 D:\git\webcrawler\Js.webCrawler\bin\Debug\Js.Business.dll
 D:\git\webcrawler\Js.webCrawler\bin\Debug\Js.Business.pdb
-D:\git\webcrawler\Js.webCrawler\bin\Debug\Js.Business.dll.config
 D:\git\webcrawler\Js.webCrawler\bin\Debug\EntityFramework.xml
 D:\git\webcrawler\Js.webCrawler\bin\Debug\EntityFramework.SqlServer.xml
 D:\git\webcrawler\Js.webCrawler\bin\Debug\HtmlAgilityPack.pdb
 D:\git\webcrawler\Js.webCrawler\bin\Debug\HtmlAgilityPack.xml
-D:\git\webcrawler\Js.webCrawler\obj\Debug\Js.webCrawler.csprojAssemblyReference.cache
-D:\git\webcrawler\Js.webCrawler\obj\Debug\Js.webCrawler.csproj.CoreCompileInputs.cache
-D:\git\webcrawler\Js.webCrawler\obj\Debug\Js.webCrawler.csproj.CopyComplete
 D:\git\webcrawler\Js.webCrawler\obj\Debug\Js.webCrawler.exe
 D:\git\webcrawler\Js.webCrawler\obj\Debug\Js.webCrawler.pdb
+D:\git\webcrawler\Js.webCrawler\obj\Debug\Js.webCrawler.csprojResolveAssemblyReference.cache
+D:\git\webcrawler\Js.webCrawler\bin\Debug\Newtonsoft.Json.dll
+D:\git\webcrawler\Js.webCrawler\bin\Debug\Newtonsoft.Json.xml

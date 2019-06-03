@@ -1,0 +1,11 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT p.Name, p.Categoria,pr.PrecioInternet ,pr.Fecha
+,pr2.PrecioInternet ,pr2.Fecha
+  FROM Products p
+  inner join prices pr on p.Id =pr.ProductId
+  left join prices pr2 on (p.Id =pr2.ProductId
+    and pr2.id=(select max(id) from prices where ProductId=pr.ProductId and id<pr.id))
+
+  where pr.id=(select max(id) from prices where ProductId=pr.ProductId)
+  and Name like '%buzo%'
+

@@ -9,14 +9,51 @@ namespace Js.Business
     public class ServicioProducto
     {
 
-        public void Ingresa(string name, decimal precionormal, decimal preciointernet)
+        public void Ingresa(string name, decimal precionormal, decimal preciointernet, string categoria,
+            string tienda, int idSku)
         {
-            var product = new Product { Name = name, PrecioInternet = preciointernet, PrecioNormal = precionormal };
+
+            name= name.Replace ("'","");
+
+            var product = new Product
+            {
+                Name = name,               
+                Categoria = categoria,
+                 SKUId =idSku,
+                 Tienda=tienda
+               
+            };
+
+            var price = new Price
+            {
+                Fecha = DateTime.Now,
+                PrecioInternet = preciointernet,
+                PrecioNormal = precionormal
+            };
+
+
 
             using (var ctx = new Context())
             {
-                ctx.Products.Add(product);
-                ctx.SaveChanges();
+                var productdb = ctx.Products.Where(m => m.SKUId   == idSku ).FirstOrDefault();
+
+                if (productdb == null)
+                {
+                    productdb = ctx.Products.Add(product);
+                    ctx.SaveChanges();
+                }
+
+
+                var pricedb = ctx.Prices.Where(m => m.ProductId == productdb.Id)
+                    .OrderByDescending(m => m.Id)
+                    .FirstOrDefault();
+
+                if (pricedb ==null || pricedb.PrecioInternet !=price .PrecioInternet || pricedb.PrecioNormal != price.PrecioNormal)
+                {
+                    price.ProductId = productdb.Id;
+                    ctx.Prices.Add(price);
+                    ctx.SaveChanges();
+                }
             }
 
         }
